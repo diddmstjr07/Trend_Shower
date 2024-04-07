@@ -1,0 +1,26 @@
+# Checking Point for me to developing System
+
+# 1. How much time should be used to logined by not checking as Robot?
+# 2. Is there anyway to check Captcha using Python Selenium Crawling System?
+# 3. Lastely... after '2' problem solves, is there any way to solve Captcha puzzle using by Yolov5 Image Artificial-Inteligence?
+
+# Solutions
+
+'''
+1. -> Timer can help this checking out write code with creating account as Python
+      First Attempt: check timer 10 minutes if fail +10 min -> 20min repeat while program make it
+      Second Attempt: Purpose if there are times limit. For example, if 10 times repeat, block the MAC Address or IP Address
+                      -> My opinion is MAC Address blocking. The reason of why is, while using VPN Proxy it also counted and blocked it
+                      -> Tor browser is also blocked by meta. I think if header or connection of Web Browser is Tor browser, Meta blocks aboutr it
+
+'''
+
+# Asking Pointment: Why does Memory usage persent goes higher while requesting in reels?
+
+'''
+1. -> Buffer Overflow Attack !!!!! -> Limited only on Windows (My Opinion)
+'''
+
+#* Why does Robot Validation Appears?? -> None identified source detected.
+#* Turning off VPN Server could prevent them if normal server, my meta instagram account will be banned by meta industry.
+#* Problem -> Testing in one IP Address reveales IP address to Meta -> Blocking my IP Address
